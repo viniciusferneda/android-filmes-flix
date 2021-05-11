@@ -12,8 +12,3 @@ Este projeto consiste em exibir uma lista de filmes, oriundas de uma API.
 - [x] [Coil](https://coil-kt.github.io/coil/)
 - [x] [Retrofit](https://square.github.io/retrofit/)
 - [x] Clean Architecture
-
-**Screenshot**
-<p float="left">
-  <img src="/filmes_flix.png" width="300" />
-</p>
